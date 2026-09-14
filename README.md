@@ -203,7 +203,3 @@ python verify_samples.py
 2. **Cost & Latency Optimization**: Defaulted to `gpt-4o-mini` with explicit output token caps (`max_tokens`), yielding sub-second latency and an average inference cost of less than $0.0001 per summary.
 3. **Factual Verification**: Validated the summarizer across 10 diverse domain samples (biomedical, legal terms, financial earnings, distributed systems) to verify omission resistance.
 
-### Resume Bullet Points:
-- *Built an AI text summarizer API and dashboard using FastAPI, Streamlit, and OpenAI with support for bullet, paragraph, and executive TL;DR modes.*
-- *Engineered hallucination-resistant prompt templates, input boundary validation, and real-time latency/token instrumentation to analyze cost-performance trade-offs.*
-- *Created an automated verification pipeline evaluating fidelity and compression across 10 multi-domain benchmark articles.*
