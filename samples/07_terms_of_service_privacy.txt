@@ -1,0 +1,13 @@
+Nimbus Cloud Enterprise Platform: Data Governance, Privacy Policy & Retention Addendum
+
+1. Scope and Applicability:
+This Terms of Service Addendum governs customer data processing and privacy rights across Nimbus Cloud Enterprise products. By provisioning a production workspace, the subscribing entity agrees to the automated collection and retention terms stipulated herein.
+
+2. Data Ownership and Model Training:
+All customer proprietary code, structured database records, telemetry streams, and analytical query histories remain the exclusive intellectual property of the subscribing organization. Nimbus Cloud explicitly covenants that customer confidential data shall never be utilized to train, fine-tune, evaluate, or benchmark proprietary foundation models without prior written affirmative consent.
+
+3. Encryption and Security Controls:
+All data in transit is encrypted using TLS 1.3 with forward secrecy, while data at rest is secured utilizing AES-256 with customer-managed encryption key (CMEK) rotation capabilities. Nimbus maintains annual SOC 2 Type II, ISO 27001, and HIPAA compliance attestations verified by independent auditors.
+
+4. Deletion and Retention Windows:
+Upon account termination, customer production data is marked for decommission immediately and retained in an isolated, encrypted fail-safe vault for a maximum grace period of thirty (30) calendar days to prevent inadvertent data loss. Following the expiration of this window, cryptographic shredding algorithms ensure complete and irreversible destruction across all physical storage tiers and automated backup snapshots within fourteen (14) operational business days.

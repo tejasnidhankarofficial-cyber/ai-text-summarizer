@@ -1,0 +1,7 @@
+CRISPR-Cas9 Gene Editing: Therapeutic Frontiers and Precision Medicine
+
+The discovery of the CRISPR-Cas9 microbial adaptive immune system by Emmanuelle Charpentier and Jennifer Doudna revolutionized molecular biology, providing a programmable platform for site-specific genomic modification. By employing a single guide RNA (sgRNA) to direct the Cas9 endonuclease to complementary target sequences flanked by a protospacer adjacent motif (PAM), researchers can introduce double-strand breaks that enable targeted gene knockout or precise homology-directed repair.
+
+In late 2023, regulatory agencies in the United Kingdom and the United States granted landmark approvals for Casgevy (exagamglogene autotemcel), the world's first CRISPR-based gene therapy for sickle cell disease and transfusion-dependent beta-thalassemia. Patient bone marrow stem cells are harvested, edited ex vivo to upregulate fetal hemoglobin production, and reinfused following myeloablative conditioning.
+
+Current research efforts concentrate on base editing and prime editing, which execute single-nucleotide transitions or insertions without creating double-strand DNA breaks, substantially minimizing off-target chromosomal translocations and genotoxic events. In vivo delivery mechanisms, specifically lipid nanoparticles (LNPs) targeted to hepatic and cardiac tissues, continue to represent the primary hurdle for expanding CRISPR treatments beyond hematologic conditions.

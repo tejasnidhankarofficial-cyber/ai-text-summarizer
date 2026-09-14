@@ -1,0 +1,7 @@
+From Packet Switching to the Decentralized Web: An Architectural History of the Internet
+
+The foundations of modern digital networking originated in the late 1960s under the auspices of the United States Advanced Research Projects Agency (ARPA). Led by visionaries including J.C.R. Licklider, Paul Baran, and Donald Davies, ARPANET replaced circuit-switched telecommunication networks with distributed packet-switching architecture, allowing data broken into discrete payloads to dynamically traverse multiple redundant paths.
+
+The critical unification of heterogeneous networks arrived on January 1, 1983—often marked as the official birthday of the Internet—when ARPANET permanently transitioned to the Transmission Control Protocol and Internet Protocol (TCP/IP) suite developed by Vinton Cerf and Robert Kahn. TCP provided reliable end-to-end packet transmission and error recovery, while IP established standardized numerical addressing across disparate physical substrates.
+
+In 1989, British computer scientist Tim Berners-Lee, operating at CERN, invented the World Wide Web by synthesizing Hypertext Transfer Protocol (HTTP), Hypertext Markup Language (HTML), and Uniform Resource Identifiers (URIs). The release of the graphical NCSA Mosaic browser in 1993 democratized access, transforming an academic and defense research network into the foundational infrastructure of the modern global economy.

@@ -1,0 +1,7 @@
+Global Climate Mitigation Strategies and Carbon Capture Innovations
+
+The Intergovernmental Panel on Climate Change (IPCC) sixth assessment report underscores that limiting global surface warming to 1.5 degrees Celsius requires net-zero greenhouse gas emissions by 2050. Achieving this target demands a two-pronged strategy: aggressive phase-out of fossil fuel combustion alongside active atmospheric carbon dioxide removal (CDR).
+
+Direct Air Capture (DAC) facilities, such as Climeworks' Orca and Mammoth plants in Iceland, utilize chemical sorbents to extract ambient CO2, subsequently mineralizing it in underground basalt formations for permanent geologic storage. However, DAC currently incurs prohibitive levelized costs, averaging $400 to $600 per metric ton of sequestered CO2, alongside significant thermal and electrical energy requirements.
+
+Concurrently, point-source carbon capture in heavy industrial manufacturing (cement, steel, and petrochemical refining) offers an immediately scalable near-term bridge. Paired with regional carbon pricing mechanisms and clean hydrogen fuel subsidies, commercial viability is projected to improve significantly by 2030 as economies of scale drive capture costs down toward the benchmark $100 per ton target.

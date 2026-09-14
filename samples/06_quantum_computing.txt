@@ -1,0 +1,7 @@
+Quantum Computing Architecture: Superconducting Qubits and Fault-Tolerant Thresholds
+
+Quantum computing harnesses the principles of quantum superposition and entanglement to solve specific computational classes that are intractable for classical Turing machines. Among competing physical implementations—including trapped ions, neutral atoms, and photonic circuits—superconducting transmon qubits fabricated via standard lithographic processes currently lead in quantum gate fidelity and processor scale.
+
+A critical milestone in the discipline is surpassing the fault-tolerant error threshold. Physical qubits are extraordinarily sensitive to thermal fluctuations, electromagnetic noise, and cosmic radiation, which induce decoherence within tens of microseconds. Quantum error correction (QEC) protocols, notably the 2D surface code, address this vulnerability by entangling thousands of noisy physical qubits into a single protected logical qubit.
+
+Recent empirical demonstrations from leading industrial laboratories validated that scaling physical qubit counts while executing real-time syndrome extraction actively suppressed physical error rates below the threshold—confirming theoretical predictions that larger code distances yield lower logical error probabilities. The transition from Noisy Intermediate-Scale Quantum (NISQ) systems toward utility-scale fault-tolerant quantum computers capable of simulating complex molecular catalysts is widely estimated to occur between 2029 and 2033.

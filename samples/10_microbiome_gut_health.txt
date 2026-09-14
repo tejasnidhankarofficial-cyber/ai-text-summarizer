@@ -1,0 +1,7 @@
+The Human Gut Microbiome and the Bidirectional Gut-Brain Axis
+
+Recent advances in metagenomic high-throughput sequencing have illuminated the immense complexity of the human gastrointestinal microbiome, which encompasses trillions of symbiotic microorganisms encoding over three million distinct genes. Far from functioning merely as a passive digestion chamber, the gut microbiome acts as a metabolically active endocrine organ that profoundly regulates systemic immune homeostasis and neurobiology.
+
+The bidirectional communication highway between the central nervous system and the enteric nervous system is mediated through the gut-brain axis. Commensal bacterial strains ferment nondigestible dietary fibers into short-chain fatty acids (SCFAs)—predominantly acetate, propionate, and butyrate. Butyrate preserves the integrity of the intestinal epithelial barrier by maintaining tight junction claudin and occludin protein expressions, while signaling through the vagus nerve to modulate neuroinflammation.
+
+Furthermore, gut microbes directly participate in the synthesis and regulation of key neurotransmitters, producing approximately 90% of the body's peripheral serotonin and substantial quantities of gamma-aminobutyric acid (GABA). Perturbations in microbial diversity, termed dysbiosis, induced by ultra-processed diets or broad-spectrum antibiotic overuse, have been increasingly correlated with the pathogenesis of chronic inflammatory diseases, metabolic syndrome, and affective mood disorders.

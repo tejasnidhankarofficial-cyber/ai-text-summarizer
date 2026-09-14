@@ -1,0 +1,13 @@
+Apex Cloud Systems Reports Fiscal Third-Quarter 2024 Financial Results
+
+Apex Cloud Systems Inc. today announced financial results for its fiscal third quarter ended September 30, 2024. Total revenue reached $4.82 billion, representing a 22% increase year-over-year compared to $3.95 billion in the third quarter of fiscal 2023.
+
+Key Financial Highlights:
+- Enterprise Cloud Platform subscription revenue climbed 28% to $3.45 billion, driven by surging customer demand for managed generative AI infrastructure.
+- Professional Services revenue rose 8% to $1.37 billion.
+- GAAP operating income was $890 million, yielding an operating margin of 18.5%, compared to $640 million (16.2% margin) in the prior-year period.
+- Diluted earnings per share (EPS) came in at $1.42, surpassing Wall Street consensus estimates of $1.31.
+- Free cash flow generated for the quarter totaled $1.15 billion, ending the quarter with $8.4 billion in total cash and marketable securities.
+
+Guidance for Fiscal Fourth Quarter 2024:
+Management raised full-year guidance, projecting fourth-quarter revenue between $5.05 billion and $5.15 billion, anticipating full-year revenue growth of approximately 21.5%. Capital expenditures will increase by $300 million to expand GPU cluster capacity across North American data centers.

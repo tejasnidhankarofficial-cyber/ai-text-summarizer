@@ -1,0 +1,9 @@
+The Economics of Distributed Work: Longitudinal Productivity and Retention Analysis
+
+A comprehensive five-year study conducted across 45 Fortune 500 enterprises examined the macroeconomic and operational impacts of transitioning from conventional in-office mandates to structured hybrid and remote-first employment paradigms.
+
+Key findings from the empirical research reveal:
+1. Individual Task Productivity: Knowledge workers performing deep, asynchronous tasks (software engineering, quantitative modeling, copy creation) recorded a 14% increase in self-reported and objective output measures when working remotely, largely attributable to reduced interruption frequencies and reclaimed commuting time.
+2. Cross-Functional Collaboration: In contrast, unstructured cross-disciplinary onboarding and spontaneous exploratory brainstorming experienced a modest 7% decline in team cohesion metrics during fully remote arrangements. Structured hybrid models (two coordinated office days per week) mitigated this divergence completely.
+3. Corporate Real Estate & Overhead: Organizations that downsized physical facility footprints achieved average annual operating expenditure reductions of $11,200 per employee, while reallocating approximately 25% of these savings into asynchronous communication tooling and regional collaborative offsites.
+4. Retention and Talent Acquisition: Companies advertising geographic flexibility received 3.2 times more qualified applicants per engineering requisition and demonstrated a 22% reduction in voluntary turnover over a 24-month horizon.
